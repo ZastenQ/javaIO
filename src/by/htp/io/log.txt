@@ -1,0 +1,32 @@
+1. Numbers: 14 & 37
+2. Operation: +
+3. Printed on monitor: 51
+4. Results were added to the input file
+1. Numbers: 5 & 20
+2. Operation: *
+3. Printed on monitor: 100
+4. Results were added to the input file
+1. Numbers: 100 & 76
+2. Operation: -
+3. Printed on monitor: 24
+4. Results were added to the input file
+1. Numbers: 300 & 8
+2. Operation: /
+3. Printed on monitor: 37
+4. Results were added to the input file
+1. Numbers: 14 & 37
+2. Operation: +
+3. Printed on monitor: 51
+4. Results were added to the input file
+1. Numbers: 5 & 20
+2. Operation: *
+3. Printed on monitor: 100
+4. Results were added to the input file
+1. Numbers: 100 & 76
+2. Operation: -
+3. Printed on monitor: 24
+4. Results were added to the input file
+1. Numbers: 300 & 8
+2. Operation: /
+3. Printed on monitor: 37
+4. Results were added to the input file
